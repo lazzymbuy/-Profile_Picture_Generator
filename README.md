@@ -1,1 +1,3 @@
-#  Profile_Picture_Generator
+React app - Generate unique image from any text using Robohash.
+
+link: https://robohash.org/
